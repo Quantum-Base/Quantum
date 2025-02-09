@@ -1,0 +1,53 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs & Debugging
+logs/
+*.log
+*.out
+*.pid
+*.seed
+*.gz
+pids/
+*.swp
+
+# IDE/Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# OS-generated files
+*.swp
+*.swo
+*.swn
+
+# Build & Compiled Files
+dist/
+build/
+coverage/
+.cache/
+out/
+
+# Dependency Lockfiles (if using a package manager)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Database Files
+*.sqlite
+*.sqlite3
+*.db
+
+# Miscellaneous
+*.bak
+*.old
