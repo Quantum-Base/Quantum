@@ -1,3 +1,6 @@
+![Quantum bg](./src/quantpic.png)
+
+
 # 🔱 Quantum Backend API
 
 ## 🚀 Overview  
